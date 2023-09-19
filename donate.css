@@ -949,12 +949,11 @@ footer {
     width: 82%;
     text-align: center;
   }
-
+  
   .qrcode {
     margin-top: 15px;
-    width: 43%;
-  }
-
+    width: 33%;
+}
   .qr-para {
     margin-top: 0;
     margin-bottom: 1rem;
